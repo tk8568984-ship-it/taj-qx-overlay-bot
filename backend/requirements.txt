@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+openai
+pydantic
+Pillow
+git+https://github.com/A11ksa/API-Quotex.git
